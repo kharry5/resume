@@ -18,7 +18,7 @@
 
 /* //-- yui-grids style overrides -- */
 body { font-family: Arial}
-#inner { padding: 10px 50px; margin: 80px auto; border: solid #666; border-width: 8px 0 2px 0; }
+#inner { padding: 10px 50px; margin: 40px auto; border: solid #666; border-width: 8px 0 2px 0; }
 .yui-gf { margin-bottom: 2em; padding-bottom: 2em; border-bottom: 2px solid black; }
 
 /* //-- header, body, footer -- */

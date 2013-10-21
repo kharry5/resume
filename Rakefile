@@ -23,7 +23,7 @@ task :build do
 end
 
 def out_filename (src, new_extension)
-	'build/' + File.basename(src, '.md') + '.' + new_extension
+	'build/' + File.basename(src, '.html') + '.' + new_extension
 end
 
 def to_html (src, out)
@@ -44,7 +44,7 @@ def add_divs (html)
 end
 
 def to_pdf (src, out)
-	PDFKit.new(File.new(src), "lowquality" => true).to_file(out)
+	PDFKit.new(File.new(src), "lowquality" => true, "margin-top" => 5, "margin-bottom" => 5, "margin-left" => 5, "margin-right" => 5).to_file(out)
 	puts "#{src} => #{out}"
 end
 

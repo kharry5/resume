@@ -18,11 +18,11 @@
 
 /* //-- yui-grids style overrides -- */
 body { font-family: Arial}
-#inner { padding: 10px 50px; margin: 80px auto; border: solid #666; border-width: 8px 0 2px 0; }
-.yui-gf { margin-bottom: 2em; padding-bottom: 2em; border-bottom: 2px solid black; }
+#inner { padding: 10px 50px; margin: 40px auto; border: solid #666; border-width: 8px 0 2px 0; }
+.yui-gf { margin-bottom: 1.5em; padding-bottom: 0em; border-bottom: 2px solid black; }
 
 /* //-- header, body, footer -- */
-#hd { margin: 2.5em 0 3em 0; padding-bottom: 1.5em; border-bottom: 2px solid black }
+#hd { margin: 2.5em 0 1em 0; padding-bottom: 1.5em; border-bottom: 2px solid black }
 #hd h2 { text-transform: uppercase; letter-spacing: 2px; }
 #bd, #ft { margin-bottom: 2em; }
 
@@ -62,6 +62,7 @@ a#pdf:hover { background: #222; }
 .job h4 { position: absolute; top: 0.35em; right: 0 }
 .job p { margin: 0.75em 0 3em 0; }
 .job p.jobdesc {margin: 0.75em 0 0.75em 0;}
+.subjob {page-break-inside: avoid}
 
 .last { border: none; }
 .skills-list {  }

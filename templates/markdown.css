@@ -9,7 +9,7 @@
 
 /* Whole document */
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Arial;
     width: 800px;
     margin: auto;
     background: #FFFFFF;
@@ -56,7 +56,7 @@ dt {
     /*font-weight: bold;*/
 }
 dd {
-    margin-left: 17%;
+    margin-left: 18%;
 }
 p {
     margin-top:0;

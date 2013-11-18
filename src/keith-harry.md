@@ -7,9 +7,11 @@ Keith Harry
 >
 > 7307 Vista Ridge Ln, Sachse TX 75048
 >
-> keith.harry@gmail.com
->
 > 972.740.4700
+>
+> <keith.harry@gmail.com>
+>
+> <http://kharry5.github.io/resume>
 
 ----
 

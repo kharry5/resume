@@ -12,6 +12,8 @@ Keith Harry
 > <keith.harry@gmail.com>
 >
 > <http://kharry5.github.io/resume>
+>
+> Security Clearance info available on request
 
 ----
 
@@ -168,4 +170,5 @@ Software Configuration Management
 > <keith.harry@gmail.com> • 972.740.4700 
 >
 > 7307 Vista Ridge Ln, Sachse, Texas 75048
-
+>
+> Security Clearance info available on request

@@ -165,6 +165,7 @@ Software Configuration Management
 
 ----
 
-> <keith.harry@gmail.com> • 972.740.4700\
+> <keith.harry@gmail.com> • 972.740.4700 
+>
 > 7307 Vista Ridge Ln, Sachse, Texas 75048
 
